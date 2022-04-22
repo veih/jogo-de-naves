@@ -31,7 +31,7 @@ body {
     border-style: solid;
 }
 
-#play {
+#jogador {
     width: 256px;
     height: 66px;
     position: absolute;
