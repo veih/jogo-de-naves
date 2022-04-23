@@ -11,4 +11,4 @@ bootcamp dio.me
 - [x] Images (JPEG, PNG)
 - [x] Audio (MP3)
 
-# Observação foi optado por não utilizar a font indicada no projeto.
+# Observação não foi utilizar a font indicada no projeto.
